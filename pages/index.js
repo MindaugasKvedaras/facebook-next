@@ -7,6 +7,13 @@ export default function Home() {
         <title>Facebook</title>
       </Head>
       <h1>Let's build facebook</h1>
+      {/*Header */}
+
+      <main>
+        {/*Sidebar */}
+        {/*Feed */}
+        {/*Widgets */}
+      </main>
     </div>
   )
 }
