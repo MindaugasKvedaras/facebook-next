@@ -66,7 +66,7 @@ const Header = () => {
                 height="40"
                 layout="fixed"
             />
-            <p className="whitespace-nowrap font-semibold pr-3">Mindaugas Kvedaras</p>
+            <p className="whitespace-nowrap font-semibold pr-3">{session.user.name}</p>
             <ViewColumnsIcon className="icon" />
             <ChatBubbleOvalLeftEllipsisIcon className="icon" />
             <BellIcon className="icon" />
